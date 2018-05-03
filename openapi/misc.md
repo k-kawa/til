@@ -1,6 +1,17 @@
 # OpenAPI misc
 Not organized notes on Swagger/OpenAPI.
 
+<!-- vim-markdown-toc GFM -->
+
+* [FAQ from Me.](#faq-from-me)
+  * [What's the difference between Swagger and OpenAPI?](#whats-the-difference-between-swagger-and-openapi)
+  * [Should we use OpenAPI v3?](#should-we-use-openapi-v3)
+  * [How to run Swagger editor on my local env?](#how-to-run-swagger-editor-on-my-local-env)
+  * [How to customize my (Java/Golang etc) code that swagger-codegen generates?](#how-to-customize-my-javagolang-etc-code-that-swagger-codegen-generates)
+  * [How to validate an API document in local?](#how-to-validate-an-api-document-in-local)
+
+<!-- vim-markdown-toc -->
+
 # FAQ from Me.
 
 ## What's the difference between Swagger and OpenAPI?
@@ -44,7 +55,7 @@ See the code around them.
 - https://github.com/swagger-api/swagger-codegen/tree/master/modules/swagger-codegen/src/main/java/io/swagger/codegen/languages
 - https://github.com/swagger-api/swagger-codegen/tree/master/modules/swagger-codegen/src/main/resources
 
-## How to validate the written API document?
+## How to validate an API document in local?
 
 Use [pajv](https://www.npmjs.com/package/pajv), and [their JSON Schema](https://github.com/OAI/OpenAPI-Specification/blob/master/schemas/v2.0/schema.json).
 
