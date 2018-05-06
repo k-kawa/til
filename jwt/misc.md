@@ -25,4 +25,7 @@ https://tools.ietf.org/html/rfc7518#section-6.1
 - https://tools.ietf.org/html/rfc7517
 - http://openid-foundation-japan.github.io/rfc7517.ja.html
 
-
+- https://tools.ietf.org/html/rfc7518#section-6.3.2.1
+- https://techinfoofmicrosofttech.osscons.jp/index.php?JWK#d88bad0f
+- http://openid-foundation-japan.github.io/rfc7638.ja.html
+- http://openid-foundation-japan.github.io/draft-ietf-jose-json-web-signature-14.ja.html
