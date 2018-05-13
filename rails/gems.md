@@ -8,3 +8,5 @@
   - https://github.com/thoughtbot/factory_bot
 - annotate_model
   - https://github.com/ctran/annotate_models
+- rubocop
+  - https://github.com/bbatsov/rubocop
