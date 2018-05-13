@@ -6,3 +6,5 @@
   - https://github.com/rspec/rspec-rails
 - factory_bot
   - https://github.com/thoughtbot/factory_bot
+- annotate_model
+  - https://github.com/ctran/annotate_models
