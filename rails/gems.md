@@ -10,3 +10,5 @@
   - https://github.com/ctran/annotate_models
 - rubocop
   - https://github.com/bbatsov/rubocop
+- rubocop-rails
+  - https://github.com/toshimaru/rubocop-rails
